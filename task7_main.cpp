@@ -1,5 +1,5 @@
 #include <stdio.h>
-double x, result;
+extern double x, result;
 void f();
 
 int main() {
